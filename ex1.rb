@@ -7,5 +7,7 @@ elsif x % 5 == 0
 	puts "#{x} BUZZ!"
 else
 	puts x
+else
+	puts x
 end
 end
